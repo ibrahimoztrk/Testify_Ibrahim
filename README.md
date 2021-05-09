@@ -19,7 +19,7 @@ dans lequel je garde les informations confidentiel.
 
 Bien qu'un projet soit mis en œuvre avec une framework, j'ai fait les tâches avec deux soulutions en utilisant deux framework différents 
 pour vous montrer mon expérience.
-De cette manière, je peux vous présenter mes expériences des frameworks BDD et DDT.
+De cette manière, je peux vous présenter mes expériences des frameworks BDD et TDD.
 
 
 ## TestNG
